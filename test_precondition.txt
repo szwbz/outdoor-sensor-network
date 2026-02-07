@@ -1,1 +1,0 @@
-Test file for precondition verification. This will be deleted after verification.
